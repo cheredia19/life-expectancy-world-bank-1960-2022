@@ -26,6 +26,8 @@ description: World Bank, 1960-2022
   yAxis="Improvement Rate"
 />
 
+## Countries with the greatest improvement in life expectancy at birth
+
 <PlotlyLineChart
   data={{
     url: 'china.csv'
