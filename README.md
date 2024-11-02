@@ -26,12 +26,47 @@ description: World Bank, 1960-2022
   yAxis="Improvement Rate"
 />
 
-
-<PlotlyBarChart
+<PlotlyLineChart
   data={{
     url: 'china.csv'
   }}
   title="China"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'bhutan.csv'
+  }}
+  title="Bhutan"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'timor_leste.csv'
+  }}
+  title="Timor-Leste"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'maldives.csv'
+  }}
+  title="Maldives"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'oman.csv'
+  }}
+  title="Oman"
   xAxis="year"
   yAxis="life_exp"
 />
