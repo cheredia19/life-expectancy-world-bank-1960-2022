@@ -9,6 +9,14 @@ description: World Bank, 1960-2022
   }}
  />
 
+## Improvement rate by country and area
+
+ <FlatUiTable
+  data={{
+    url: 'imp_rate_table.csv'
+  }}
+ />
+
 
 <PlotlyBarChart
   data={{
