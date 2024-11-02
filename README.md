@@ -16,8 +16,7 @@ description: World Bank, 1960-2022
     url: 'imp_rate_table.csv'
   }}
  />
-
-
+ 
 <PlotlyBarChart
   data={{
     url: 'imp_rate.csv'
@@ -25,4 +24,14 @@ description: World Bank, 1960-2022
   title="Improvement rate by country and region"
   xAxis="Country Code"
   yAxis="Improvement Rate"
+/>
+
+
+<PlotlyBarChart
+  data={{
+    url: 'china.csv'
+  }}
+  title="China"
+  xAxis="year"
+  yAxis="life_exp"
 />
