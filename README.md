@@ -28,7 +28,7 @@ description: World Bank, 1960-2022
 
 ## Countries with the greatest improvement in life expectancy at birth
 
-<PlotlyLineChart
+<PlotlyBarChart
   data={{
     url: 'china.csv'
   }}
@@ -37,7 +37,7 @@ description: World Bank, 1960-2022
   yAxis="life_exp"
 />
 
-<PlotlyLineChart
+<PlotlyBarChart
   data={{
     url: 'bhutan.csv'
   }}
@@ -55,7 +55,7 @@ description: World Bank, 1960-2022
   yAxis="life_exp"
 />
 
-<PlotlyLineChart
+<PlotlyBarChart
   data={{
     url: 'maldives.csv'
   }}
@@ -64,7 +64,7 @@ description: World Bank, 1960-2022
   yAxis="life_exp"
 />
 
-<PlotlyLineChart
+<PlotlyBarChart
   data={{
     url: 'oman.csv'
   }}
@@ -72,3 +72,8 @@ description: World Bank, 1960-2022
   xAxis="year"
   yAxis="life_exp"
 />
+
+## Life expectancy
+
+### Global
+
