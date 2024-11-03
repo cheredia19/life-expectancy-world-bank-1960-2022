@@ -213,3 +213,6 @@ description: World Bank, 1960-2022
   xAxis="year"
   yAxis="life_exp"
 />
+
+### By income level
+
