@@ -282,6 +282,10 @@ The life expectancy of the **Sub-Saharan African region** was 41.4 years in 1960
 
 ### By income level
 
+**High-income countries** are those in which the 2023 [Atlas gross national index (GNI) per capita](https://data.worldbank.org/indicator/NY.GNP.PCAP.CD) was more than $14,005.  
+
+The 85 high-income States' life expectancy at birth rose by 16.4% between 1960 and 2022.
+
 <PlotlyBarChart
   data={{
     url: 'hic.csv'
