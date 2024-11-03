@@ -247,6 +247,8 @@ The 21 States listed from the **Middle East & North Africa** region registered a
   yAxis="life_exp"
 />
 
+Bermuda, Canada, and the United States (**North American region**), all labeled as high-income countries, recorded a joint life expectancy at birth of 77.8 years in 2022, an 11.4% increase compared to 1960. 
+
 <PlotlyBarChart
   data={{
     url: 'nac.csv'
