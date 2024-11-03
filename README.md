@@ -336,3 +336,50 @@ description: World Bank, 1960-2022
   xAxis="year"
   yAxis="life_exp"
 />
+
+### Groups excluding high income
+
+<PlotlyBarChart
+  data={{
+    url: 'eap.csv'
+  }}
+  title="East Asia & Pacific"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'eca.csv'
+  }}
+  title="Europe & Central Asia"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'lac.csv'
+  }}
+  title="Latin America & Caribbean"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'mna.csv'
+  }}
+  title="Middle East & North Africa"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'ssa.csv'
+  }}
+  title="Sub-Saharan Africa"
+  xAxis="year"
+  yAxis="life_exp"
+/>
