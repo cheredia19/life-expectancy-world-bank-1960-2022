@@ -120,7 +120,11 @@ The life expectancy at birth between 1960 and 2022 of all countries, regions, an
 
 ## Life expectancy by groups
 
-### Global
+### OECD
+
+The OECD is a forum where governments of market-based democracies work together to develop policy standards for sustainable economic growth. It also helps countries, both members and non-members, address the challenges and take advantage of the benefits of a global economy. 
+
+Life expectancy at birth among the 38 OECD [members](https://www.oecd.org/en/about/members-partners.html) increased by 18.3% between 1960 and 2022.
 
 <PlotlyBarChart
   data={{
