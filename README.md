@@ -306,27 +306,9 @@ The 85 high-income States' life expectancy at birth rose by 16.4% between 1960 a
 
 <PlotlyBarChart
   data={{
-    url: 'mic.csv'
-  }}
-  title="Middle income"
-  xAxis="year"
-  yAxis="life_exp"
-/>
-
-<PlotlyBarChart
-  data={{
     url: 'lmc.csv'
   }}
   title="Lower middle income"
-  xAxis="year"
-  yAxis="life_exp"
-/>
-
-<PlotlyBarChart
-  data={{
-    url: 'lmy.csv'
-  }}
-  title="Low & middle income"
   xAxis="year"
   yAxis="life_exp"
 />
