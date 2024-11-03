@@ -4,9 +4,9 @@ description: According to the World Bank data, from 1960 to 2022
 author: César Heredia, data journalist
 ---
 
-<br />
+> **Life expectancy at birth** indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.
 
-Over the past six decades, **life expectancy at birth** has shown remarkable improvement worldwide, underscoring advancements in healthcare, living conditions, and disease prevention. 
+Over the past six decades, life expectancy at birth has shown remarkable improvement worldwide, underscoring advancements in healthcare, living conditions, and disease prevention. 
 
 According to data from the World Bank, this value has steadily increased globally from 1960 to 2022, **moving from 50.9 years in 1960 to 72 years in 2022**, a **41.5 percent improvement in 62 years**, reflecting enhanced quality of life and medical progress on a global scale.
 
