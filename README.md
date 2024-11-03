@@ -214,6 +214,8 @@ The people from the countries in the **Euro Area** born in 2022 have a life expe
   yAxis="life_exp"
 />
 
+Pretty similar is the situation in the countries that belong to the **European Union**: 80.8 years for the 2022-born, a 17% increase compared to the 1960-born.
+
 <PlotlyBarChart
   data={{
     url: 'euu.csv'
