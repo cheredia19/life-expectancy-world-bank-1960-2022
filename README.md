@@ -96,3 +96,120 @@ description: World Bank, 1960-2022
 />
 
 ### By region
+
+<PlotlyBarChart
+  data={{
+    url: 'afe.csv'
+  }}
+  title="Africa Eastern and Southern"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'afw.csv'
+  }}
+  title="Africa Western and Central"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'arb.csv'
+  }}
+  title="Arab World"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'ceb.csv'
+  }}
+  title="Central Europe and the Baltics"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'eas.csv'
+  }}
+  title="East Asia & Pacific"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'ecs.csv'
+  }}
+  title="Europe & Central Asia"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'emu.csv'
+  }}
+  title="Euro area"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'euu.csv'
+  }}
+  title="European Union"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'lcn.csv'
+  }}
+  title="Latin America & Caribbean"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'mea.csv'
+  }}
+  title="Middle East & North Africa"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'nac.csv'
+  }}
+  title="North America"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'sas.csv'
+  }}
+  title="South Asia"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'ssf.csv'
+  }}
+  title="Sub-Saharan Africa"
+  xAxis="year"
+  yAxis="life_exp"
+/>
