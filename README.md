@@ -62,6 +62,8 @@ The increase in life expectancy at birth in **Bhutan** has been constant since 1
   yAxis="life_exp"
 />
 
+**Timor-Leste's** life expectancy for those born in 1960 was 32.2 years but hit a low of 21.8 years in 1979. Even though growth has not been as steady as in China and Bhutan, it has rocketed to 69.1 years for babies born in 2022.
+
 <PlotlyBarChart
   data={{
     url: 'timor_leste.csv'
