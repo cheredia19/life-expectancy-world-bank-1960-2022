@@ -310,3 +310,29 @@ description: World Bank, 1960-2022
 
 ### Groups in sensitive situations
 
+<PlotlyBarChart
+  data={{
+    url: 'fcs.csv'
+  }}
+  title="Fragile and conflict affected situations"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'hpc.csv'
+  }}
+  title="Heavily indebted poor countries (HIPC)"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'ldc.csv'
+  }}
+  title="Least developed countries: UN classification"
+  xAxis="year"
+  yAxis="life_exp"
+/>
