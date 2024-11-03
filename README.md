@@ -225,6 +225,8 @@ Pretty similar is the situation in the countries that belong to the **European U
   yAxis="life_exp"
 />
 
+The life expectancy at birth of people in countries located in **Latin America and the Caribbean** grew by 33.7%.
+
 <PlotlyBarChart
   data={{
     url: 'lcn.csv'
