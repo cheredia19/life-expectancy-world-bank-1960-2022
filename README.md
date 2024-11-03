@@ -5,6 +5,21 @@ description: According to the World Bank data, from 1960 to 2022
 
 <br />
 
+Over the past six decades, **life expectancy at birth** has shown remarkable improvement worldwide, underscoring advancements in healthcare, living conditions, and disease prevention. 
+
+According to data from the World Bank, life expectancy at birth has steadily increased globally from 1960 to 2022, **moving from 50.9 years in 1960 to 72 years in 2022**, a **41.5 percent improvement in 62 years**, reflecting enhanced quality of life and medical progress on a global scale.
+
+<PlotlyBarChart
+  data={{
+    url: 'world.csv'
+  }}
+  title="World"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+## Life expectancy at birth by country and area (1960-2022)
+
 <FlatUiTable
   data={{
     url: 'life_expectancy.csv'
@@ -78,15 +93,6 @@ description: According to the World Bank data, from 1960 to 2022
 ## Life expectancy by groups
 
 ### Global
-
-<PlotlyBarChart
-  data={{
-    url: 'world.csv'
-  }}
-  title="World"
-  xAxis="year"
-  yAxis="life_exp"
-/>
 
 <PlotlyBarChart
   data={{
