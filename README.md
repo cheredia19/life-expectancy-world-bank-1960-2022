@@ -19,9 +19,9 @@ According to data from the World Bank, this value has steadily increased globall
   yAxis="life_exp"
 />
 
-All countries, regions, and areas recorded a rise in life expectancy at birth in this period except one.
+All countries, regions, and areas recorded a rise in life expectancy at birth in this period **except one**.
 
-## Improvement rate by country and area
+## Improvement rate by country, region and area
 
 <FlatUiTable
   data={{
@@ -95,6 +95,8 @@ Two little drops in 1978 and 2004 prevented **Maldives** from a full constant gr
   yAxis="life_exp"
 />
 
+### The exception
+
 Until 2019, life expectancy at birth in **Ukraine** grew, like every other nation. Since then, it has dropped by 3.2 years. Although it is not the subject of this article, the decline might be attributed to the COVID-19 pandemic and the ongoing armed conflict with Russia.
 
 <PlotlyBarChart
@@ -106,7 +108,9 @@ Until 2019, life expectancy at birth in **Ukraine** grew, like every other natio
   yAxis="life_exp"
 />
 
-## Life expectancy at birth by country and area (1960-2022)
+## Life expectancy at birth by country, region and area (1960-2022)
+
+The life expectancy at birth between 1960 and 2022 of all countries, regions, and areas compiled by the World Bank is in the table below. Data can be filtered by country, region, income level, and values:
 
 <FlatUiTable
   data={{
