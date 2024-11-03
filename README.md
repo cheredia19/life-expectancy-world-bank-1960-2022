@@ -271,3 +271,39 @@ description: World Bank, 1960-2022
 />
 
 ### Small states
+
+<PlotlyBarChart
+  data={{
+    url: 'sst.csv'
+  }}
+  title="Small States"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'css.csv'
+  }}
+  title="Caribbean Small States"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'pss.csv'
+  }}
+  title="Pacific Island Small States"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'oss.csv'
+  }}
+  title="Other Small States"
+  xAxis="year"
+  yAxis="life_exp"
+/>
