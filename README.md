@@ -51,6 +51,8 @@ Five countries doubled their expectation of life at birth: two from East Asia an
   yAxis="life_exp"
 />
 
+The increase in life expectancy at birth in **Bhutan** has been constant since 1960. Just a minimum decrease (0.2 years) for those born in 2000 compared to 1999. It's the second country with the highest value.
+
 <PlotlyBarChart
   data={{
     url: 'bhutan.csv'
