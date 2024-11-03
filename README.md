@@ -8,7 +8,7 @@ author: César Heredia, data journalist
 
 Over the past six decades, **life expectancy at birth** has shown remarkable improvement worldwide, underscoring advancements in healthcare, living conditions, and disease prevention. 
 
-According to data from the World Bank, life expectancy at birth has steadily increased globally from 1960 to 2022, **moving from 50.9 years in 1960 to 72 years in 2022**, a **41.5 percent improvement in 62 years**, reflecting enhanced quality of life and medical progress on a global scale.
+According to data from the World Bank, this value has steadily increased globally from 1960 to 2022, **moving from 50.9 years in 1960 to 72 years in 2022**, a **41.5 percent improvement in 62 years**, reflecting enhanced quality of life and medical progress on a global scale.
 
 <PlotlyBarChart
   data={{
@@ -19,28 +19,8 @@ According to data from the World Bank, life expectancy at birth has steadily inc
   yAxis="life_exp"
 />
 
-All countries, regions, and areas recorded a rise in life expectancy in this period except one: **Ukraine**. Until 2019, life expectancy grew, like every other nation. Since then, it has dropped by 3.2 years. Although it is not the subject of this article, the decline might be attributed to the COVID-19 pandemic and the ongoing armed conflict with Russia.
+All countries, regions, and areas recorded a rise in life expectancy at birth in this period except one.
 
-### Ukraine
-
-<PlotlyBarChart
-  data={{
-    url: 'ukraine.csv'
-  }}
-  title="Ukraine"
-  xAxis="year"
-  yAxis="life_exp"
-/>
-
-
-## Life expectancy at birth by country and area (1960-2022)
-
-<FlatUiTable
-  data={{
-    url: 'life_expectancy.csv'
-  }}
- />
- 
 ## Improvement rate by country and area
 
 <FlatUiTable
@@ -48,8 +28,8 @@ All countries, regions, and areas recorded a rise in life expectancy in this per
     url: 'imp_rate_table.csv'
   }}
  />
- 
-<PlotlyBarChart
+
+ <PlotlyBarChart
   data={{
     url: 'imp_rate.csv'
   }}
@@ -58,7 +38,7 @@ All countries, regions, and areas recorded a rise in life expectancy in this per
   yAxis="Improvement Rate"
 />
 
-## Countries with the greatest improvement in life expectancy
+Five countries doubled their expectation of life at birth: two from East Asia and the Pacific, two from South Asia, and one from the MENA region.
 
 <PlotlyBarChart
   data={{
@@ -104,6 +84,27 @@ All countries, regions, and areas recorded a rise in life expectancy in this per
   xAxis="year"
   yAxis="life_exp"
 />
+
+Until 2019, life expectancy at birth in **Ukraine** grew, like every other nation. Since then, it has dropped by 3.2 years. Although it is not the subject of this article, the decline might be attributed to the COVID-19 pandemic and the ongoing armed conflict with Russia.
+
+### Ukraine
+
+<PlotlyBarChart
+  data={{
+    url: 'ukraine.csv'
+  }}
+  title="Ukraine"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+## Life expectancy at birth by country and area (1960-2022)
+
+<FlatUiTable
+  data={{
+    url: 'life_expectancy.csv'
+  }}
+ />
 
 ## Life expectancy by groups
 
