@@ -3,15 +3,17 @@ title: Life expectancy at birth
 description: World Bank, 1960-2022
 ---
 
+<br />
+
 <FlatUiTable
   data={{
     url: 'life_expectancy.csv'
   }}
  />
-
+ 
 ## Improvement rate by country and area
 
- <FlatUiTable
+<FlatUiTable
   data={{
     url: 'imp_rate_table.csv'
   }}
