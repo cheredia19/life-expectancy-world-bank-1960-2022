@@ -260,6 +260,7 @@ description: World Bank, 1960-2022
   xAxis="year"
   yAxis="life_exp"
 />
+
 <PlotlyBarChart
   data={{
     url: 'lic.csv'
@@ -268,3 +269,5 @@ description: World Bank, 1960-2022
   xAxis="year"
   yAxis="life_exp"
 />
+
+### Small states
