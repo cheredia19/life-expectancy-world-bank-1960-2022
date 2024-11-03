@@ -40,6 +40,8 @@ All countries, regions, and areas recorded a rise in life expectancy at birth in
 
 Five countries doubled their expectation of life at birth: two from East Asia and the Pacific, two from South Asia, and one from the MENA region (a special mention to Mali (99.7%), a Sub-Saharan African nation).
 
+**China's life expectancy at birth** was 33.3 years in 1960. In just two years, it rose 52.5% to reach 50.8 years. Although growth has slowed since then, it has been steady year by year, reaching 78.6 years for those born in 2022. From 1960 to 2022, the expectation of life in China increased by 136.2%, the highest among the listed countries.
+
 <PlotlyBarChart
   data={{
     url: 'china.csv'
