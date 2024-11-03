@@ -89,8 +89,6 @@ Five countries doubled their expectation of life at birth: two from East Asia an
 
 Until 2019, life expectancy at birth in **Ukraine** grew, like every other nation. Since then, it has dropped by 3.2 years. Although it is not the subject of this article, the decline might be attributed to the COVID-19 pandemic and the ongoing armed conflict with Russia.
 
-### Ukraine
-
 <PlotlyBarChart
   data={{
     url: 'ukraine.csv'
