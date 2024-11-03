@@ -236,6 +236,8 @@ The life expectancy at birth of people in countries located in **Latin America a
   yAxis="life_exp"
 />
 
+The 21 States listed from the **Middle East & North Africa** region registered a rise of almost two-thirds (63.6%) in life expectancy, going from 44.8 years (born in 1960) to 73.2 years (2022).
+
 <PlotlyBarChart
   data={{
     url: 'mea.csv'
