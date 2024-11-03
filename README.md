@@ -26,7 +26,7 @@ description: World Bank, 1960-2022
   yAxis="Improvement Rate"
 />
 
-## Countries with the greatest improvement in life expectancy at birth
+## Countries with the greatest improvement in life expectancy
 
 <PlotlyBarChart
   data={{
@@ -73,7 +73,7 @@ description: World Bank, 1960-2022
   yAxis="life_exp"
 />
 
-## Life expectancy
+## Life expectancy bu groups
 
 ### Global
 
