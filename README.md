@@ -295,7 +295,7 @@ The 85 high-income States' life expectancy at birth rose by 16.4% between 1960 a
   yAxis="life_exp"
 />
 
-Upper-middle-income countries have economies in which the 2023 Atlas GNI per capita was between $4,516 and $14,005.
+Upper-middle-income countries have economies in which the 2023 Atlas GNI per capita was between 4,516 and 14,005 dollars.
 
 In 1960, life expectancy at birth in this group was 41.9 years. In 62 years, the value increased to 75.7.
 
