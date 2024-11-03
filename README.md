@@ -77,3 +77,22 @@ description: World Bank, 1960-2022
 
 ### Global
 
+<PlotlyBarChart
+  data={{
+    url: 'world.csv'
+  }}
+  title="World"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'oecd_members.csv'
+  }}
+  title="OECD Members"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+### By region
