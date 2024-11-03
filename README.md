@@ -181,6 +181,8 @@ The life expectancy at birth in the countries located in **Central Europe and th
   yAxis="life_exp"
 />
 
+The **East Asia and Pacific** regional aggregate group went from 41.6 to 76.9 years of life expectancy at birth.
+
 <PlotlyBarChart
   data={{
     url: 'eas.csv'
