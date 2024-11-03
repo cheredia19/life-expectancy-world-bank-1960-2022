@@ -73,7 +73,7 @@ description: World Bank, 1960-2022
   yAxis="life_exp"
 />
 
-## Life expectancy bu groups
+## Life expectancy by groups
 
 ### Global
 
