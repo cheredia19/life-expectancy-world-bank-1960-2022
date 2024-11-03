@@ -203,6 +203,8 @@ The expectance of life at birth in **Europe and Central Asia**, which includes c
   yAxis="life_exp"
 />
 
+The people from the countries in the **Euro Area** born in 2022 have a life expectancy of 81.7 years, 18% more than the ones born in 1960.
+
 <PlotlyBarChart
   data={{
     url: 'emu.csv'
