@@ -1,6 +1,6 @@
 ---
-title: Life expectancy at birth
-description: World Bank, 1960-2022
+title: Life expectancy at birth has improved all over the world
+description: According to the World Bank data, from 1960 to 2022
 ---
 
 <br />
