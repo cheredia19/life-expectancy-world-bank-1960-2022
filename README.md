@@ -73,7 +73,7 @@ The increase in life expectancy at birth in **Bhutan** has been constant since 1
   yAxis="life_exp"
 />
 
-Two little drops in 1978 and 2004 prevented **Maldives** from a full constant growth curve. Still, the South-Asian country recorded the highest improvement in life expectancy at birth.
+Two little drops in 1978 and 2004 prevented **Maldives** from a full constant growth curve. Still, the South-Asian country recorded the fourth highest improvement in life expectancy at birth since 1960.
 
 <PlotlyBarChart
   data={{
