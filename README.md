@@ -269,6 +269,8 @@ Eight **South-Asian countries**, including Afghanistan, Bhutan, India, Maldives,
   yAxis="life_exp"
 />
 
+The life expectancy of the **Sub-Saharan African region** was 41.4 years in 1960. Sixty-two years later, it's 60.8, an increment of 46.8%.
+
 <PlotlyBarChart
   data={{
     url: 'ssf.csv'
