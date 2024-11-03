@@ -258,6 +258,8 @@ Bermuda, Canada, and the United States (**North American region**), all labeled 
   yAxis="life_exp"
 />
 
+Eight **South-Asian countries**, including Afghanistan, Bhutan, India, Maldives, and Pakistan, recorded a life expectancy of 45.1 years in 1960. It grew 51.1%, positioning in 68.2 years in 2022.
+
 <PlotlyBarChart
   data={{
     url: 'sas.csv'
