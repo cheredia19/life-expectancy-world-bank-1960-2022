@@ -84,6 +84,8 @@ Two little drops in 1978 and 2004 prevented **Maldives** from a full constant gr
   yAxis="life_exp"
 />
 
+**Oman** climbed from 35.5 years (1960) to 78 years (2018-19) in life expectancy. It decreased a little since but, in 62 years, the percent change was 108.6, 5th place overall.
+
 <PlotlyBarChart
   data={{
     url: 'oman.csv'
