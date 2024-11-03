@@ -1,6 +1,7 @@
 ---
 title: Life expectancy at birth has improved all over the world
 description: According to the World Bank data, from 1960 to 2022
+author: César Heredia, data journalist
 ---
 
 <br />
@@ -17,6 +18,8 @@ According to data from the World Bank, life expectancy at birth has steadily inc
   xAxis="year"
   yAxis="life_exp"
 />
+
+All countries, regions, and areas recorded a rise in life expectancy in this period except one: **Ukraine**. Until 2019, life expectancy grew, like every other nation. Since then, it has dropped by 3.2 years. Although it is not the subject of this article, the decline might be attributed to the COVID-19 pandemic and the ongoing armed conflict with Russia.
 
 ### Ukraine
 
