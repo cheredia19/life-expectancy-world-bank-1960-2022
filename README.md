@@ -159,6 +159,8 @@ The **African Eastern and Southern region**, composed of 26 countries, stretchin
   yAxis="life_exp"
 />
 
+The **Arab World region** groups members from the [League of Arab States](https://arabmpi.org). It went from a life expectancy of 45 years in 1960 to 71.2 sixty-two years later.
+
 <PlotlyBarChart
   data={{
     url: 'arb.csv'
