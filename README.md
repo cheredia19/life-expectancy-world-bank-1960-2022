@@ -192,6 +192,8 @@ The **East Asia and Pacific** regional aggregate group went from 41.6 to 76.9 ye
   yAxis="life_exp"
 />
 
+The expectance of life at birth in **Europe and Central Asia**, which includes countries such as Germany, France, Italy, Norway, Finland, United Kingdom, Lithuania, Kazakhstan, Turkmenistan, Russia, and Ukraine, among others, rose 15.4% from 1960 to 2022.
+
 <PlotlyBarChart
   data={{
     url: 'ecs.csv'
