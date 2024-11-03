@@ -216,3 +216,55 @@ description: World Bank, 1960-2022
 
 ### By income level
 
+<PlotlyBarChart
+  data={{
+    url: 'hic.csv'
+  }}
+  title="High income"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'umc.csv'
+  }}
+  title="Upper middle income"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'mic.csv'
+  }}
+  title="Middle income"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'lmc.csv'
+  }}
+  title="Lower middle income"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'lmy.csv'
+  }}
+  title="Low & middle income"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+<PlotlyBarChart
+  data={{
+    url: 'lic.csv'
+  }}
+  title="Low income"
+  xAxis="year"
+  yAxis="life_exp"
+/>
