@@ -170,6 +170,8 @@ The **Arab World region** groups members from the [League of Arab States](https:
   yAxis="life_exp"
 />
 
+The life expectancy at birth in the countries located in **Central Europe and the Baltics** improved by 13% for those born in 2022 (76.8 years) compared to 1960 (67.9).
+
 <PlotlyBarChart
   data={{
     url: 'ceb.csv'
