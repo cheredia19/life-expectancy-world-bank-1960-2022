@@ -38,7 +38,7 @@ All countries, regions, and areas recorded a rise in life expectancy at birth in
   yAxis="Improvement Rate"
 />
 
-Five countries doubled their expectation of life at birth: two from East Asia and the Pacific, two from South Asia, and one from the MENA region.
+Five countries doubled their expectation of life at birth: two from East Asia and the Pacific, two from South Asia, and one from the MENA region (a special mention to Mali (99.7%), a Sub-Saharan African nation).
 
 <PlotlyBarChart
   data={{
