@@ -18,6 +18,18 @@ According to data from the World Bank, life expectancy at birth has steadily inc
   yAxis="life_exp"
 />
 
+### Ukraine
+
+<PlotlyBarChart
+  data={{
+    url: 'ukraine.csv'
+  }}
+  title="Ukraine"
+  xAxis="year"
+  yAxis="life_exp"
+/>
+
+
 ## Life expectancy at birth by country and area (1960-2022)
 
 <FlatUiTable
