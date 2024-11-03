@@ -137,6 +137,8 @@ Life expectancy at birth among the 38 OECD [members](https://www.oecd.org/en/abo
 
 ### By region
 
+The African Eastern and Southern region, composed of 26 countries, stretching from the Red Sea in the North to the Cape of Good Hope in the South, recorded an improvement rate of 42.7%, from 44.1 years (born in 1960) to 62.9 years (2022).
+
 <PlotlyBarChart
   data={{
     url: 'afe.csv'
